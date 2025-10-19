@@ -1,3 +1,7 @@
+Here’s a shorter, professional version of your **README.md** that also includes your **SQL work** 👇
+
+---
+
 # 🚗 Ola Data Analysis Dashboard
 
 ## 📊 Overview
@@ -54,8 +58,9 @@ Cancelled Percentage = DIVIDE([CanceledBookings], [TotalBookings], 0)
 
 ## 👨‍💻 Author
 
-**Muhammad Ibthesam**
+**Muhammad Khan**
 Data Analyst | Power BI & SQL Developer
 
 ---
 
+Would you like me to make it more **GitHub portfolio-style** (with badges and visuals placeholders), or keep it simple like this version?
